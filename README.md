@@ -1,1 +1,2 @@
-# git_intro
+America Pacheco
+pachecam@oregonstate.edu
